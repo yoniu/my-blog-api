@@ -1,0 +1,1 @@
+export const ORIGINS = ['blog.200011.net', '127.0.0.1']
