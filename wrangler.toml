@@ -1,3 +1,15 @@
 name = "my-blog"
 main = "src/index.ts"
 compatibility_date = "2022-09-19"
+account_id = "297d13d44605c3d3bd2204f6039b48d3"
+
+[dev]
+ip = "127.0.0.1"
+port = 9000
+local_protocol="http"
+upstream_protocol="https"
+
+[[kv_namespaces]]
+binding = "BLOG"
+preview_id = "6670e461733b47f68baa2d8b4c7494f8"
+id = "6670e461733b47f68baa2d8b4c7494f8"
